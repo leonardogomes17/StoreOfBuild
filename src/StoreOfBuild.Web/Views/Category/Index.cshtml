@@ -1,0 +1,31 @@
+﻿@model IEnumerable<StoreOfBuild.Domain.Dtos.CategoryDto>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row header">
+    <div class="col-md-12">
+        <h3>Categories</h3>
+        <a href="/Category/CreateOrEdit" class="btn btn-primary">New</a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-hover">
+            @foreach(var dto in @Model){
+                <tr>
+                    <td> 
+                        <a class="name">@dto.Name</a>
+                    </td>
+                    <td>                    
+                        <a href="/Category/CreateOrEdit/@dto.Id" class="name">Edit</a>
+                    </td>
+                    <td>                    
+                        <a href="/Category/Delete/@dto.Id" class="name">Delete</a>
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>

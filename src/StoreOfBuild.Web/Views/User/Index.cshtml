@@ -1,0 +1,28 @@
+@model IEnumerable<StoreOfBuild.Domain.Dtos.UserDto>
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="row header">
+    <div class="col-md-12">
+        <h3>Users List</h3>
+        <a href="/User/Create" class="btn btn-primary">New</a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-hover">
+        @if (@Model != null) {
+            @foreach(var dto in @Model){
+                <tr>
+                    <td> 
+                        <a class="name">@dto.Email</a>
+                    </td>
+                    <td>                    
+                        <a href="/User/ChangePassword/@dto.Id" class="btn">Change Password</a>
+                    </td>
+                </tr>
+            }
+        }
+        </table>
+    </div>
+</div>

@@ -1,0 +1,11 @@
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Domain\bin\Debug\net9.0\StoreOfBuild.Domain.deps.json
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Domain\bin\Debug\net9.0\StoreOfBuild.Domain.dll
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Domain\bin\Debug\net9.0\StoreOfBuild.Domain.pdb
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Domain\obj\Debug\net9.0\StoreOfBuild.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Domain\obj\Debug\net9.0\StoreOfBuild.Domain.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Domain\obj\Debug\net9.0\StoreOfBuild.Domain.AssemblyInfo.cs
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Domain\obj\Debug\net9.0\StoreOfBuild.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Domain\obj\Debug\net9.0\StoreOfBuild.Domain.dll
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Domain\obj\Debug\net9.0\refint\StoreOfBuild.Domain.dll
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Domain\obj\Debug\net9.0\StoreOfBuild.Domain.pdb
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Domain\obj\Debug\net9.0\ref\StoreOfBuild.Domain.dll

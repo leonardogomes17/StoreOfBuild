@@ -1,0 +1,17 @@
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\bin\Debug\net9.0\StoreOfBuild.Data.deps.json
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\bin\Debug\net9.0\StoreOfBuild.Data.runtimeconfig.json
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\bin\Debug\net9.0\StoreOfBuild.Data.dll
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\bin\Debug\net9.0\StoreOfBuild.Data.pdb
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\bin\Debug\net9.0\StoreOfBuild.Domain.dll
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\bin\Debug\net9.0\StoreOfBuild.Domain.pdb
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\obj\Debug\net9.0\StoreOfBuild.Data.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\obj\Debug\net9.0\StoreOfBuild.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\obj\Debug\net9.0\StoreOfBuild.Data.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\obj\Debug\net9.0\StoreOfBuild.Data.AssemblyInfo.cs
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\obj\Debug\net9.0\StoreOfBuild.Data.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\obj\Debug\net9.0\StoreOfB.4273811F.Up2Date
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\obj\Debug\net9.0\StoreOfBuild.Data.dll
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\obj\Debug\net9.0\refint\StoreOfBuild.Data.dll
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\obj\Debug\net9.0\StoreOfBuild.Data.pdb
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\obj\Debug\net9.0\StoreOfBuild.Data.genruntimeconfig.cache
+C:\Users\Leo\Desktop\StoreOfBuild\src\StoreOfBuild.Data\obj\Debug\net9.0\ref\StoreOfBuild.Data.dll

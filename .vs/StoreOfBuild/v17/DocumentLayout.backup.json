@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D053BA8-D4A5-43DB-868F-1FF9506B9208}|src\\StoreOfBuild.Data\\StoreOfBuild.Data.csproj|c:\\users\\leo\\desktop\\storeofbuild\\src\\storeofbuild.data\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D053BA8-D4A5-43DB-868F-1FF9506B9208}|src\\StoreOfBuild.Data\\StoreOfBuild.Data.csproj|solutionrelative:src\\storeofbuild.data\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D053BA8-D4A5-43DB-868F-1FF9506B9208}|src\\StoreOfBuild.Data\\StoreOfBuild.Data.csproj|c:\\users\\leo\\desktop\\storeofbuild\\src\\storeofbuild.data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D053BA8-D4A5-43DB-868F-1FF9506B9208}|src\\StoreOfBuild.Data\\StoreOfBuild.Data.csproj|solutionrelative:src\\storeofbuild.data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D053BA8-D4A5-43DB-868F-1FF9506B9208}|src\\StoreOfBuild.Data\\StoreOfBuild.Data.csproj|c:\\users\\leo\\desktop\\storeofbuild\\src\\storeofbuild.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D053BA8-D4A5-43DB-868F-1FF9506B9208}|src\\StoreOfBuild.Data\\StoreOfBuild.Data.csproj|solutionrelative:src\\storeofbuild.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA58369-6A38-448A-8869-3D00ED915BD3}|src\\StoreOfBuild.Web\\StoreOfBuild.Web.csproj|c:\\users\\leo\\desktop\\storeofbuild\\src\\storeofbuild.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA58369-6A38-448A-8869-3D00ED915BD3}|src\\StoreOfBuild.Web\\StoreOfBuild.Web.csproj|solutionrelative:src\\storeofbuild.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF433E3-FA9D-42A2-93F6-1CD9A6124CB2}|src\\StoreOfBuild.DI\\StoreOfBuild.DI.csproj|c:\\users\\leo\\desktop\\storeofbuild\\src\\storeofbuild.di\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF433E3-FA9D-42A2-93F6-1CD9A6124CB2}|src\\StoreOfBuild.DI\\StoreOfBuild.DI.csproj|solutionrelative:src\\storeofbuild.di\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D053BA8-D4A5-43DB-868F-1FF9506B9208}|src\\StoreOfBuild.Data\\StoreOfBuild.Data.csproj|c:\\users\\leo\\desktop\\storeofbuild\\src\\storeofbuild.data\\storeofbuild.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D053BA8-D4A5-43DB-868F-1FF9506B9208}|src\\StoreOfBuild.Data\\StoreOfBuild.Data.csproj|solutionrelative:src\\storeofbuild.data\\storeofbuild.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA58369-6A38-448A-8869-3D00ED915BD3}|src\\StoreOfBuild.Web\\StoreOfBuild.Web.csproj|c:\\users\\leo\\desktop\\storeofbuild\\src\\storeofbuild.web\\storeofbuild.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAA58369-6A38-448A-8869-3D00ED915BD3}|src\\StoreOfBuild.Web\\StoreOfBuild.Web.csproj|solutionrelative:src\\storeofbuild.web\\storeofbuild.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA58369-6A38-448A-8869-3D00ED915BD3}|src\\StoreOfBuild.Web\\StoreOfBuild.Web.csproj|c:\\users\\leo\\desktop\\storeofbuild\\src\\storeofbuild.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA58369-6A38-448A-8869-3D00ED915BD3}|src\\StoreOfBuild.Web\\StoreOfBuild.Web.csproj|solutionrelative:src\\storeofbuild.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40289A24-15C8-4B0A-8384-24D9983F8E0D}|src\\StoreOfBuild.Domain\\StoreOfBuild.Domain.csproj|c:\\users\\leo\\desktop\\storeofbuild\\src\\storeofbuild.domain\\products\\categorystorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40289A24-15C8-4B0A-8384-24D9983F8E0D}|src\\StoreOfBuild.Domain\\StoreOfBuild.Domain.csproj|solutionrelative:src\\storeofbuild.domain\\products\\categorystorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40289A24-15C8-4B0A-8384-24D9983F8E0D}|src\\StoreOfBuild.Domain\\StoreOfBuild.Domain.csproj|c:\\users\\leo\\desktop\\storeofbuild\\src\\storeofbuild.domain\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40289A24-15C8-4B0A-8384-24D9983F8E0D}|src\\StoreOfBuild.Domain\\StoreOfBuild.Domain.csproj|solutionrelative:src\\storeofbuild.domain\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D053BA8-D4A5-43DB-868F-1FF9506B9208}|src\\StoreOfBuild.Data\\StoreOfBuild.Data.csproj|c:\\users\\leo\\desktop\\storeofbuild\\src\\storeofbuild.data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D053BA8-D4A5-43DB-868F-1FF9506B9208}|src\\StoreOfBuild.Data\\StoreOfBuild.Data.csproj|solutionrelative:src\\storeofbuild.data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF433E3-FA9D-42A2-93F6-1CD9A6124CB2}|src\\StoreOfBuild.DI\\StoreOfBuild.DI.csproj|c:\\users\\leo\\desktop\\storeofbuild\\src\\storeofbuild.di\\storeofbuild.di.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CF433E3-FA9D-42A2-93F6-1CD9A6124CB2}|src\\StoreOfBuild.DI\\StoreOfBuild.DI.csproj|solutionrelative:src\\storeofbuild.di\\storeofbuild.di.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA58369-6A38-448A-8869-3D00ED915BD3}|src\\StoreOfBuild.Web\\StoreOfBuild.Web.csproj|c:\\users\\leo\\desktop\\storeofbuild\\src\\storeofbuild.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAA58369-6A38-448A-8869-3D00ED915BD3}|src\\StoreOfBuild.Web\\StoreOfBuild.Web.csproj|solutionrelative:src\\storeofbuild.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Data\\Authentication.cs",
+              "RelativeDocumentMoniker": "src\\StoreOfBuild.Data\\Authentication.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Data\\Authentication.cs",
+              "RelativeToolTip": "src\\StoreOfBuild.Data\\Authentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:02:51.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "src\\StoreOfBuild.Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Data\\ApplicationUser.cs",
+              "RelativeToolTip": "src\\StoreOfBuild.Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:02:44.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\StoreOfBuild.Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\StoreOfBuild.Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:02:38.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "src\\StoreOfBuild.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "src\\StoreOfBuild.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:02:19.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\StoreOfBuild.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Web\\Program.cs",
+              "RelativeToolTip": "src\\StoreOfBuild.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:23:09.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryStorer.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Domain\\Products\\CategoryStorer.cs",
+              "RelativeDocumentMoniker": "src\\StoreOfBuild.Domain\\Products\\CategoryStorer.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Domain\\Products\\CategoryStorer.cs",
+              "RelativeToolTip": "src\\StoreOfBuild.Domain\\Products\\CategoryStorer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:28:05.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Domain\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "src\\StoreOfBuild.Domain\\Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Domain\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "src\\StoreOfBuild.Domain\\Dtos\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:20:44.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Data\\Repository.cs",
+              "RelativeDocumentMoniker": "src\\StoreOfBuild.Data\\Repository.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Data\\Repository.cs",
+              "RelativeToolTip": "src\\StoreOfBuild.Data\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:08:01.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bootstrap.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.DI\\Bootstrap.cs",
+              "RelativeDocumentMoniker": "src\\StoreOfBuild.DI\\Bootstrap.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.DI\\Bootstrap.cs",
+              "RelativeToolTip": "src\\StoreOfBuild.DI\\Bootstrap.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:28:49.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoreOfBuild.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Data\\StoreOfBuild.Data.csproj",
+              "RelativeDocumentMoniker": "src\\StoreOfBuild.Data\\StoreOfBuild.Data.csproj",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Data\\StoreOfBuild.Data.csproj",
+              "RelativeToolTip": "src\\StoreOfBuild.Data\\StoreOfBuild.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T21:17:00.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StoreOfBuild.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Web\\StoreOfBuild.Web.csproj",
+              "RelativeDocumentMoniker": "src\\StoreOfBuild.Web\\StoreOfBuild.Web.csproj",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Web\\StoreOfBuild.Web.csproj",
+              "RelativeToolTip": "src\\StoreOfBuild.Web\\StoreOfBuild.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T21:13:56.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StoreOfBuild.DI.csproj",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.DI\\StoreOfBuild.DI.csproj",
+              "RelativeDocumentMoniker": "src\\StoreOfBuild.DI\\StoreOfBuild.DI.csproj",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.DI\\StoreOfBuild.DI.csproj",
+              "RelativeToolTip": "src\\StoreOfBuild.DI\\StoreOfBuild.DI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T21:05:09.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\StoreOfBuild.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\StoreOfBuild\\src\\StoreOfBuild.Web\\appsettings.json",
+              "RelativeToolTip": "src\\StoreOfBuild.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T20:29:27.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
